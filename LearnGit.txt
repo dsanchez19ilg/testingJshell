@@ -1,6 +1,7 @@
 Learn Git
-git branching
-git config
-github
+---------
+*git branching
+*git config
+*github
 git add
 git merge
